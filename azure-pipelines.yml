@@ -5,7 +5,7 @@
 
 trigger: none
 pool:
-  name: Selfhostedagent
+  name: 'Selfhostedagent'
 
 variables:
   solution: '**/*.sln'
